@@ -22,8 +22,8 @@ A distributed task scheduler built with Node.js, Express, MongoDB, and Redis. Th
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/task-scheduler.git
-    cd task-scheduler
+   https://github.com/amandbest786/Task-Scheduler.git
+    cd Task-Scheduler
     ```
 
 2. Install dependencies:
