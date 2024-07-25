@@ -94,11 +94,3 @@ A distributed task scheduler built with Node.js, Express, MongoDB, and Redis. Th
 - **GET /api/alerts**: Get all alert rules.
 - **DELETE /api/alerts/:id**: Delete an alert rule.
 
-## Real-Time Features
-- **WebSockets**: Implement WebSocket connections for real-time task status updates and alerts.
-
-## Postman Collection
-A Postman collection is included in the repository. Import it into Postman to test the API endpoints.
-
-## License
-This project is licensed under the MIT License.
