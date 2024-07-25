@@ -48,17 +48,17 @@ A distributed task scheduler built with Node.js, Express, MongoDB, and Redis. Th
 - **POST /api/auth/register**: Register a new user.
     ```json
     {
-        "username": "john_doe",
-        "email": "john@example.com",
-        "password": "securepassword"
+        "username": "aman_pandey",
+        "email": "aman.pandey@gmail.com",
+        "password": "*********"
     }
     ```
 
 - **POST /api/auth/login**: Log in a user.
     ```json
     {
-        "email": "john@example.com",
-        "password": "securepassword"
+        "email": "aman.pandey@gmail.com",
+        "password": "**********"
     }
     ```
 
